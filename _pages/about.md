@@ -24,7 +24,7 @@ For those not quite ready for the complete live band experience,
 we also offer a traditional karaoke service.  We have thousands
 of songs, and can KJ your party.
 
-### Contct us!
+### Contact us!
 
-Send us and email [DJ Beep Code](mailto:djbeepcode@gmail.com?subject=[karaoke]%20Availability%20Han%20Inquiry) to inquire about our rates and availibility!
+Send us an email at [DJ Beep Code](mailto:djbeepcode@gmail.com?subject=[karaoke]%20Availability%20Inquiry) to inquire about our rates and availibility!
 
