@@ -2,8 +2,8 @@
 permalink: /about/
 title: "About"
 ---
-
-ATX Karaoke provides all your karaoke needs for central Texas.
+ATX Karaoke provides the finest live band, and traditional
+karaoke to the central Texas region. 
 
 ## Live Band Karaoke
 
