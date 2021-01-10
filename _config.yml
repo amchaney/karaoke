@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: ATX Karaoke
+title: ATX Karaoke - Live Band and Traditional Karaoke in Central Texas
 email: djbeepcode@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   ATX Karaoke provides the finest live band, and traditional
@@ -63,10 +63,10 @@ author:
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://"
+      url: "https://amchaney.github.io/karaoke/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://twitter.com/beepdj"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
