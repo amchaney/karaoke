@@ -3,8 +3,9 @@ layout: splash
 permalink: /
 hidden: true
 header:
-  overlay_filter: rgba(233, 74, 230, 0.5)
   overlay_image: /assets/images/banner.jpg
+  overlay_filter: rgba(233, 74, 230, 0.5)
+  caption: "DefCon 26"
   actions:
     - label: "<i class='fas fa-download'></i> Contact us now"
       url: "about/"
