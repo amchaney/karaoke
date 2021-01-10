@@ -9,10 +9,10 @@ karaoke to the central Texas region.
 
 Our live band karaoke act consists of 
 
-  - Gray (guitar)
   - Cody (drums)
-  - Anna (bass)
+  - Gray (guitar)
   - Pinkie (hostess with the mostest)
+  - Violet (bass)
 
 We have over one hundred songs to choose from!  The perfect 
 entertainment choice for your next event.  Let your teammates
