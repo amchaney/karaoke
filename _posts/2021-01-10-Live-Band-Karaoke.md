@@ -9,4 +9,4 @@ header:
   caption: "ATX Live Karaoke at DefCon"
 ---
 
-![alt]({{ site.url }}{{ site.baseurl }}/assets/images/banner.jpg)
+We welcome Cody, our new drummer to the show!
