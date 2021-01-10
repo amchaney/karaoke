@@ -21,15 +21,15 @@ feature_row:
     btn_label: "Learn more"
   - image_path: /assets/images/pinkie.jpg
     alt: "Hostess"
-    title: "Pinkie, our hostess"
-    excerpt: "Sing"
+    title: "Let Loose Your Inner Rockstar"
+    excerpt: "wth Pinkie, our hostess"
     url: "/about/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
   - image_path: /assets/images/defcon_lb_karaoke.jpg
     alt: "conferences"
     title: "Live Band Karaoke"
-    excerpt: "Great for Conferences, and Corporate Events!"
+    excerpt: "Great for Conferences, Corporate Events, and parties!"
     url: "/about/"
     btn_class: "btn--primary"
     btn_label: "Learn more"      
