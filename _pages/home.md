@@ -10,7 +10,6 @@ header:
       url: "about/"
 excerpt: >
   Live band karaoke, perfect for your copororate event, or parties!
-  
 feature_row:
   - image_path: /assets/images/glowing_mic.jpg
     alt: "Karaoke"
