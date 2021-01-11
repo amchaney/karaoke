@@ -10,7 +10,7 @@ header:
     - label: "<i class='fas fa-download'></i> Contact us now"
       url: "about/"
 excerpt: >
-  Don't Panic, it is live band karaoke, perfect for your copororate events and parties!
+  Don't Panic, it is live band karaoke! Perfect for your copororate events and parties.
 feature_row:
   - image_path: /assets/images/glowing_mic.jpg
     alt: "Karaoke"
