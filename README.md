@@ -18,4 +18,5 @@ a large catalog.
 
 ## Contact Us
 
-Email for details!
+Email for details at
+[DJ Beep Code](mailto:djbeepcode@gmail.com?subject=[karaoke]%20More%20Details)
