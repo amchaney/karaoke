@@ -15,8 +15,8 @@ feature_row:
   - image_path: /assets/images/glowing_mic.jpg
     alt: "Karaoke"
     title: "Traditional Karaoke"
-    excerpt: "Thousands of songs, classy KJs"
-    url: "/about/"
+    excerpt: "Thousands of songs, cheap and classy KJs"
+    url: "/about/#traditional-karaoke"
     btn_class: "btn--primary"
     btn_label: "Learn more"
   - image_path: /assets/images/pinkie.jpg

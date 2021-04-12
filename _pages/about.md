@@ -2,7 +2,7 @@
 permalink: /about/
 title: "About"
 ---
-ATX Karaoke provides the finest live band, and traditional
+ATX Karaoke provides entertaining live band karaoke, and traditional
 karaoke to the central Texas region. 
 
 ## Celebrate post-COVID with Live Band Karaoke
@@ -39,7 +39,7 @@ of songs, and can KJ your party.
 ### Prices from $300
 
 Post-COVID we are reopening for gigs in May 2021.  Get in touch
-for detailed pricing and avilability
+for detailed pricing and availability.
 
 ### Contact us!
 
