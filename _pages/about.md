@@ -13,7 +13,7 @@ just love to sing your heart out? Are you planning in conference in Austin and w
 to book an evening to remember? 
 
 Hire ATX Karaoke!  A three piece band backs you up while you and your guests sing one of 117 songs
-in our repertoire.  You'll love [our mix of classic favorites](/assests/docs/ATXKaraoke_LiveList.pdf)! 
+in our repertoire.  You'll love [our mix of classic favorites](/assets/docs/ATXKaraoke_LiveList.pdf)
 
 Our current live band line-up is:
 
@@ -23,7 +23,7 @@ Our current live band line-up is:
   - Violet (bass)
 
 We have over one hundred songs to choose from!  
-Check out are current list (117 songs) [here](/assests/docs/ATXKaraoke_LiveList.pdf)
+Check out are current list (117 songs) [here](/assets/docs/ATXKaraoke_LiveList.pdf)
 The perfect 
 entertainment choice for your next event.  Let your teammates
 and friends let loose their inner rock stars!
