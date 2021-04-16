@@ -28,8 +28,6 @@ The perfect
 entertainment choice for your next event.  Let your teammates
 and friends let loose their inner rock stars!
 
-### Prices from $600
-
 ## Traditional Karaoke
 
 For those not quite ready for the complete live band experience,
