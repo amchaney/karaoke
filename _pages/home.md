@@ -10,7 +10,9 @@ header:
     - label: "<i class='fas fa-download'></i> Contact us now"
       url: "about/"
 excerpt: >
-  Don't Panic, it is live band karaoke! Perfect for your copororate events and parties.
+  You bring the rockstar, we bring the band! 
+
+  Perfect for your copororate events and parties.
 feature_row:
   - image_path: /assets/images/glowing_mic.jpg
     alt: "Karaoke"
@@ -26,7 +28,7 @@ feature_row:
     url: "/about/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: /assets/images/defcon_lb_karaoke.jpg
+  - image_path: /assets/images/cody.jpg
     alt: "conferences"
     title: "Live Band Karaoke"
     excerpt: "Great for Conferences, Corporate Events, and parties!"
