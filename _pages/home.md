@@ -12,7 +12,7 @@ header:
 excerpt: >
   You bring the rockstar, we bring the band! 
 
-  Perfect for your copororate events and parties.
+  Perfect for your corporate events and parties.
 feature_row:
   - image_path: /assets/images/glowing_mic.jpg
     alt: "Karaoke"
