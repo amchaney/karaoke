@@ -11,7 +11,7 @@ You bring the rockstar, and we bring the band!
 
 Going back to the office soon?  Need a good team activity to celebrate seeing each other again?
 Do you want a unique, participatory wedding reception? Do you and your friends 
-just love to sing your heart out? Are you planning in conference in Austin and want 
+just love to sing your heart out? Are you planning a conference in Austin and want 
 to book an evening to remember? 
 
 Hire ATX Karaoke!  A three piece band backs you up while you and your guests sing one of 117 songs
