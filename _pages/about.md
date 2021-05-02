@@ -5,6 +5,8 @@ title: "About"
 ATX Karaoke provides entertaining live band karaoke, and traditional
 karaoke to the central Texas region. 
 
+You bring the rockstar, and we bring the band!
+
 ## Celebrate post-COVID with Live Band Karaoke
 
 Going back to the office soon?  Need a good team activity to celebrate seeing each other again?
