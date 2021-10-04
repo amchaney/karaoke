@@ -7,7 +7,9 @@ karaoke to the central Texas region.
 
 You bring the rockstar, and we bring the band!
 
-## Celebrate post-COVID with Live Band Karaoke
+[Check out are current list (120 songs) here](/assets/docs/ATXKaraoke_LiveList.pdf)
+
+## Celebrate with Live Band Karaoke
 
 Going back to the office soon?  Need a good team activity to celebrate seeing each other again?
 Do you want a unique, participatory wedding reception? Do you and your friends 
@@ -25,7 +27,7 @@ Our current live band line-up is:
   - Violet (bass)
 
 We have over one hundred songs to choose from!  
-Check out are current list (117 songs) [here](/assets/docs/ATXKaraoke_LiveList.pdf)
+Check out are current list (120 songs) [here](/assets/docs/ATXKaraoke_LiveList.pdf)
 The perfect 
 entertainment choice for your next event.  Let your teammates
 and friends let loose their inner rock stars!
@@ -38,8 +40,8 @@ of songs, and can KJ your party.
 
 ### Prices from $300
 
-Post-COVID we are reopening for gigs in May 2021.  Get in touch
-for detailed pricing and availability.
+Celebrate the holiday season in Austin, TX. Get in touch
+for detailed pricing and availability. Currently booking for November and December private parties.
 
 ### Contact us!
 
