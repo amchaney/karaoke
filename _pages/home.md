@@ -13,6 +13,7 @@ excerpt: >
   You bring the rockstar, we bring the band! 
 
   Perfect for your corporate events and parties.
+  Click [here](/assets/docs/ATXKaraoke_LiveList.pdf) for our song listing. 
 feature_row:
   - image_path: /assets/images/glowing_mic.jpg
     alt: "Karaoke"
