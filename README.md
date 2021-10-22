@@ -9,7 +9,7 @@ Great for
   - conference entertainment
   - parties!
 
-100s of songs available!
+Over 100 songs available!
 
 ## Good Ol' Karaoke (KJ)
 
