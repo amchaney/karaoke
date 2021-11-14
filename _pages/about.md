@@ -38,7 +38,7 @@ For those not quite ready for the complete live band experience,
 we also offer a traditional karaoke service.  We have thousands
 of songs, and can KJ your party. 
 
-### Prices from $300
+### Live Band Prices from $600
 
 Celebrate the holiday season in Austin, TX. Get in touch
 for detailed pricing and availability. Currently booking for November and December private parties.
