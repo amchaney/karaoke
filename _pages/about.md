@@ -7,7 +7,7 @@ karaoke to the central Texas region.
 
 You bring the rockstar, and we bring the band!
 
-[Check out are current list (120 songs) here](/assets/docs/ATXKaraoke_LiveList.pdf)
+[Check out our current list (120 songs) here](/assets/docs/ATXKaraoke_LiveList.pdf)
 
 ## Celebrate with Live Band Karaoke
 
@@ -27,7 +27,7 @@ Our current live band line-up is:
   - Violet (bass)
 
 We have over one hundred songs to choose from!  
-Check out are current list (120 songs) [here](/assets/docs/ATXKaraoke_LiveList.pdf)
+Check out our current list (120 songs) [here](/assets/docs/ATXKaraoke_LiveList.pdf)
 The perfect 
 entertainment choice for your next event.  Let your teammates
 and friends let loose their inner rock stars!
