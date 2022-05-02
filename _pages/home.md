@@ -16,7 +16,7 @@ excerpt: >
   Perfect for your corporate events and parties.
   Click [here](/assets/docs/ATXKaraoke_LiveList.pdf) for our song listing. 
 feature_row:
-  - image_path: /assets/images/glowing_mic.jpg
+  - image_path: /assets/images/lbk.png
     alt: "Live Band Karaoke"
     title: "Live Band Karaoke Sampler"
     excerpt: "Barrels of fun and memories to last a lifetime"
