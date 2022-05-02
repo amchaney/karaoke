@@ -34,9 +34,9 @@ feature_row:
     alt: "conferences"
     title: "Let Loose Your Inner Rockstar"
     excerpt: "Great for Conferences, Corporate Events, and parties!"
-    url: "/about/"
+    url: "/assets/docs/ATXKaraoke_LiveList.pdf"
     btn_class: "btn--primary"
-    btn_label: "Learn more"      
+    btn_label: "Check out our song list"      
 ---
 
 {% include feature_row %}
