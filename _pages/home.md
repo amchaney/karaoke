@@ -16,13 +16,13 @@ excerpt: >
   Perfect for your corporate events and parties.
   Click [here](/assets/docs/ATXKaraoke_LiveList.pdf) for our song listing. 
 feature_row:
-  - image_path: /assets/images/glowing_mic.jpg
+  - image_path: {% include youtubePlayer.html id=page.youtubeId %}
     alt: "Karaoke"
-    title: "Traditional Karaoke"
-    excerpt: "Thousands of songs, cheap and classy KJs"
+    title: "Live Band Karaoke Sampler"
+    excerpt: "Barrels of Fun and Memories of a Lifetime"
     url: "/about/#traditional-karaoke"
     btn_class: "btn--primary"
-    btn_label: "Learn more"
+    btn_label: "Watch Now"
   - image_path: /assets/images/pinkie.jpg
     alt: "Hostess"
     title: "Let Loose Your Inner Rockstar"
