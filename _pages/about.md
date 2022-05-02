@@ -16,7 +16,7 @@ Do you want a unique, participatory wedding reception? Do you and your friends
 just love to sing your heart out? Are you planning a conference in Austin and want 
 to book an evening to remember? 
 
-Hire ATX Karaoke!  A three piece band backs you up while you and your guests sing one of 117 songs
+Hire ATX Karaoke!  A three piece band backs you up while you and your guests sing one of 120 songs
 in our repertoire.  You'll love [our mix of classic favorites](/assets/docs/ATXKaraoke_LiveList.pdf)
 
 Our current live band line-up is:
