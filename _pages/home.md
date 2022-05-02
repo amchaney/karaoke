@@ -23,16 +23,9 @@ feature_row:
     url: "https://youtu.be/FkTBR3nz8a4"
     btn_class: "btn--primary"
     btn_label: "Watch Now"
-  - image_path: /assets/images/pinkie.jpg
-    alt: "Hostess"
-    title: "Let Loose Your Inner Rockstar"
-    excerpt: "with Pinkie, our hostess"
-    url: "/about/"
-    btn_class: "btn--primary"
-    btn_label: "Learn more"
   - image_path: /assets/images/cody.jpg
     alt: "conferences"
-    title: "Live Band Karaoke"
+    title: "Let Loose Your Inner Rockstar"
     excerpt: "Great for Conferences, Corporate Events, and parties!"
     url: "/about/"
     btn_class: "btn--primary"
