@@ -40,8 +40,8 @@ of songs, and can KJ your party.
 
 ### Live Band Prices from $200 / per musician
 
-Celebrate the spring time 2022 in Austin, TX. Get in touch
-for detailed pricing and availability. Currently booking for November and December private parties.
+Celebrate the summer time 2022 in Austin, TX. Get in touch
+for detailed pricing and availability. 
 
 ### Contact us!
 
