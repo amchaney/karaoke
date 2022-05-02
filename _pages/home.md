@@ -30,6 +30,13 @@ feature_row:
     url: "/about/"
     btn_class: "btn--primary"
     btn_label: "Learn more"      
+  - image_path: /assets/images/pinkie.jpg
+    alt: "ATX from the Air"
+    title: "Rockin in the ATX"
+    excerpt: "Live music capital of the world"
+    url: "/about/"
+    btn_class: "btn--primary"
+    btn_label: "Learn more"
 ---
 
 {% include feature_row %}
