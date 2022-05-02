@@ -16,11 +16,11 @@ excerpt: >
   Perfect for your corporate events and parties.
   Click [here](/assets/docs/ATXKaraoke_LiveList.pdf) for our song listing. 
 feature_row:
-  - image_path: {% include youtubePlayer.html id=page.youtubeId %}
-    alt: "Karaoke"
+  - image_path: /assets/images/glowing_mic.jpg
+    alt: "Live Band Karaoke"
     title: "Live Band Karaoke Sampler"
-    excerpt: "Barrels of Fun and Memories of a Lifetime"
-    url: "/about/#traditional-karaoke"
+    excerpt: "Barrels of fun and memories to last a lifetime"
+    url: "https://youtu.be/FkTBR3nz8a4"
     btn_class: "btn--primary"
     btn_label: "Watch Now"
   - image_path: /assets/images/pinkie.jpg
