@@ -23,6 +23,13 @@ feature_row:
     url: "https://youtu.be/FkTBR3nz8a4"
     btn_class: "btn--primary"
     btn_label: "Watch Now"
+  - image_path: /assets/images/atx.jpg
+    alt: "ATX from the Air"
+    title: "Rockin in the ATX"
+    excerpt: "Live music capital of the world"
+    url: "/about/"
+    btn_class: "btn--primary"
+    btn_label: "Learn more"
   - image_path: /assets/images/cody.jpg
     alt: "conferences"
     title: "Let Loose Your Inner Rockstar"
@@ -30,13 +37,6 @@ feature_row:
     url: "/about/"
     btn_class: "btn--primary"
     btn_label: "Learn more"      
-  - image_path: /assets/images/pinkie.jpg
-    alt: "ATX from the Air"
-    title: "Rockin in the ATX"
-    excerpt: "Live music capital of the world"
-    url: "/about/"
-    btn_class: "btn--primary"
-    btn_label: "Learn more"
 ---
 
 {% include feature_row %}
