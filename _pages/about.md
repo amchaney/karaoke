@@ -32,13 +32,7 @@ The perfect
 entertainment choice for your next event.  Let your teammates
 and friends let loose their inner rock stars!
 
-## Traditional Karaoke
-
-For those not quite ready for the complete live band experience,
-we also offer a traditional karaoke service.  We have thousands
-of songs, and can KJ your party. 
-
-### Live Band Prices from $200 / per musician
+### Live Band Prices from $1200 
 
 Celebrate the summer time 2022 in Austin, TX. Get in touch
 for detailed pricing and availability. 
