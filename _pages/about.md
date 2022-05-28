@@ -37,6 +37,8 @@ and friends let loose their inner rock stars!
 Celebrate the summer time 2022 in Austin, TX. Get in touch
 for detailed pricing and availability. 
 
+For footage from prior gigs, please check out our [promo on youtube](https://youtu.be/FkTBR3nz8a4) or our [Facebook](https://www.facebook.com/atxkaraoke) page. 
+
 ### Contact us!
 
 Send us an email at [DJ Beep Code](mailto:djbeepcode@gmail.com?subject=[karaoke]%20Availability%20Inquiry) or a message on Twitter at [@beepdj](https://twitter.com/beepdj).
