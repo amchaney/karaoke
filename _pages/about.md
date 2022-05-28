@@ -2,8 +2,8 @@
 permalink: /about/
 title: "About"
 ---
-ATX Karaoke provides entertaining live band karaoke, and traditional
-karaoke to the central Texas region. 
+ATX Karaoke provides entertaining live band karaoke
+to the central Texas region. 
 
 You bring the rockstar, and we bring the band!
 
