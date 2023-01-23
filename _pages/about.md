@@ -11,13 +11,12 @@ You bring the rockstar, and we bring the band!
 
 ## Celebrate with Live Band Karaoke
 
-Going back to the office soon?  Need a good team activity to celebrate seeing each other again?
-Do you want a unique, participatory wedding reception? Do you and your friends 
-just love to sing your heart out? Are you planning a conference in Austin and want 
-to book an evening to remember? 
+Need a good team building activity for the office staff? Do you want a unique,
+participatory wedding reception? Do you and your friends just love to sing your
+heart out? Are you planning a conference in Austin and want to book an evening to remember?
 
-Hire ATX Karaoke!  A three piece band backs you up while you and your guests sing one of 120 songs
-in our repertoire.  You'll love [our mix of classic favorites](/assets/docs/ATXKaraoke_LiveList.pdf)
+Hire ATX Karaoke! A three piece band backs you up while you and your guests sing
+one of 120 songs in our repertoire. You’ll love our mix of classic favorites.
 
 Our current live band line-up is:
 
@@ -34,8 +33,8 @@ and friends let loose their inner rock stars!
 
 ### Live Band Prices from $1200 
 
-Celebrate the summer time 2022 in Austin, TX. Get in touch
-for detailed pricing and availability. 
+Celebrate with an occasion to remember for life in Austin, TX. 
+Get in touch for detailed pricing and availability.
 
 For footage from prior gigs, please check out our [promo on youtube](https://youtu.be/FkTBR3nz8a4) or our [Facebook](https://www.facebook.com/atxkaraoke) page. 
 
