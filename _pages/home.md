@@ -30,7 +30,7 @@ feature_row:
     url: "/about/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: /assets/images/cody.jpg
+  - image_path: /assets/images/you_bring.png
     alt: "conferences"
     title: "Let Loose Your Inner Rockstar"
     excerpt: "Great for Conferences, Corporate Events, and parties!"

@@ -20,10 +20,10 @@ one of 120 songs in our repertoire. You’ll love our mix of classic favorites.
 
 Our current live band line-up is:
 
-  - Cody (drums)
   - Gray (guitar)
   - Pinkie (hostess with the mostest)
   - Violet (bass)
+  - "The Turq" (drummer)
 
 We have over one hundred songs to choose from!  
 Check out our current list (120 songs) [here](/assets/docs/ATXKaraoke_LiveList.pdf)
