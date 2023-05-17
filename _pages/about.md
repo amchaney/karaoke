@@ -31,7 +31,7 @@ The perfect
 entertainment choice for your next event.  Let your teammates
 and friends let loose their inner rock stars!
 
-### Live Band Prices from $1200 
+### Live Band Prices from $1500 
 
 Celebrate with an occasion to remember for life in Austin, TX. 
 Get in touch for detailed pricing and availability.
