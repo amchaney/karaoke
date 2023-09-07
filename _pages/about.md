@@ -2,6 +2,10 @@
 permalink: /about/
 title: "About"
 ---
+Update 7 Sept 2023 - We are currently on a hiatus while some band members focus
+on other pursuits. I'm leaving our contact info here, if you have a referral from
+a friend of ours please feel free to get in touch and I'll see what I can do!
+
 ATX Karaoke provides entertaining live band karaoke
 to the central Texas region. 
 
