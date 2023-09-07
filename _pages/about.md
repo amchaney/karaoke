@@ -31,14 +31,18 @@ The perfect
 entertainment choice for your next event.  Let your teammates
 and friends let loose their inner rock stars!
 
-### Live Band Prices from $2000 
+### ~~Live Band Prices from $2000~~
 
-Celebrate with an occasion to remember for life in Austin, TX. 
-Get in touch for detailed pricing and availability.
+~~Celebrate with an occasion to remember for life in Austin, TX. 
+Get in touch for detailed pricing and availability.~~
 
 For footage from prior gigs, please check out our [promo on youtube](https://youtu.be/FkTBR3nz8a4) or our [Facebook](https://www.facebook.com/atxkaraoke) page. 
 
 ### Contact us!
+
+Update 7 Sept 2023 - We are currently on a hiatus while some band members focus
+on other pursuits. I'm leaving our contact info here, if you have a referral from
+a friend of ours please feel free to get in touch and I'll see what I can do!
 
 Send us an email at [DJ Beep Code](mailto:djbeepcode@gmail.com?subject=[karaoke]%20Availability%20Inquiry) or a message on Twitter at [@beepdj](https://twitter.com/beepdj).
 
